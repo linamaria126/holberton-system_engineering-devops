@@ -1,2 +1,2 @@
 #!/bin/bash
-WORLD=$(id -un) echo "hello ${WORLD}"
+echo "hello $USER"
