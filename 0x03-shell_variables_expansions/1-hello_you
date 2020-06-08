@@ -1,0 +1,3 @@
+#!/bin/bash
+WORLD=$(id -un)
+echo "Hello $WORLD"
